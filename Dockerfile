@@ -25,6 +25,6 @@ RUN yarn --prod
 # 对外暴露端口
 EXPOSE 3000
 
-CMD ['node', 'src/index.js']
+CMD ["node", "src/index.js"]
 
 
